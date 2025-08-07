@@ -1,1 +1,1 @@
-# 𝐑 Basic R exercises
+# 💻 Basic R exercises
